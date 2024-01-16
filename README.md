@@ -1,7 +1,7 @@
 # Dataload
-Migração de Dados em sistema ERP e CRM.
+Cadastro de Dados em sistema ERP e CRM.
 <br>
-O DataLoad é ferramenta de carregamento de dados para usuário final mais popular do mundo e a única solução abrangente e integrada para usuários não-técnicos.
+O DataLoad é ferramenta de carregamento de dados para usuário final mais popular do mundo e a única solução abrangente.
 
 # Download da aplicação
 <br>
