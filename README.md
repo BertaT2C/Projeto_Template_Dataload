@@ -1,7 +1,10 @@
 # Dataload
 Cadastro de Dados em sistema ERP e CRM.
 <br>
-O DataLoad é ferramenta de carregamento de dados para usuário final mais popular do mundo e a única solução abrangente.
+O DataLoad é ferramenta de carregamento de dados para usuário final mais popular do mundo e a única solução abrangente. Consegui efetuar um processo de melhoria de emissão d notas com o Dataload.
+<br> 
+Solicitei sistema exclusivo para rodar :
+Hardware, Acesso do Servidor, Software ERP Oracle R12, Senha do Dataload, para rastreabilidade do processo após conclusão
 
 # Download da aplicação
 <br>
