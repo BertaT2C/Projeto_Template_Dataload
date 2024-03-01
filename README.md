@@ -4,7 +4,7 @@ Cadastro de Dados em sistema ERP e CRM.
 
 ![LoadLoadingGIF](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1668e2eb-8ba7-45f2-9fab-7f3c07e4e25e)
 <br>
-O DataLoad é a ferramenta de carregamento de dados para usuário final mais popular do mundo e a única solução abrangente disponível. Através dela, conduzi um processo de aprimoramento que abrangeu desde a emissão de notas até a inclusão de novos itens, tanto produtivos quanto não produtivos, e a emissão de requisições de compras. Além disso, implementei com sucesso a emissão de notas de importação utilizando este recurso.
+O DataLoad é uma ferramenta essencial para o carregamento de dados. Utilizando essa plataforma, liderei um processo de aprimoramento em uma multinacional do setor automobilístico, que abrangeu uma variedade de atividades, desde a emissão de notas até a inclusão de novos itens, tanto produtivos quanto não produtivos, e a geração de requisições de compras,em sistema ERP, tudo isso utilizando a abordagem No Code. O resultado foi um aumento impressionante de aproximadamente 60% na eficiência do processo para os usuários, reduzindo a quantidade de tarefas repetitivas e liberando tempo para atividades mais estratégicas. Além disso, implementei com sucesso a emissão de notas de importação utilizando este recurso.
 <br> 
 Houve a solicitação de uma máquina exclusiva para rodar o software:
 Hardware, Acesso do Servidor, Software ERP Oracle R12, Senha do Dataload, para rastreabilidade do processo após conclusão
