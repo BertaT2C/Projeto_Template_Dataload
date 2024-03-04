@@ -3,7 +3,7 @@
 
 Em um projeto na indústria automobilística, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
 
-![CodingHowToSellDrugsOnlineFastGIF (2)](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/186faf54-ac4d-409c-bc1f-8df2a52cd48c)
+
 
 Com a abordagem No Code, fui capaz de criar e personalizar templates para utilização no ERP Oracle R12, sistema utilizado em nossa empresa para o planejamento de recursos corporativos, sem depender de conhecimentos técnicos avançados em programação. Isso me permitiu, na função de Líder de Projetos, contribuir ativamente para o desenvolvimento de soluções sem depender exclusivamente de programadores. Como resultado, alcançamos maior eficiência e agilidade, reduzindo significativamente o tempo de desenvolvimento e implementação de novas funcionalidades para o cadastro de dados em massa.
 
