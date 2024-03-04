@@ -1,3 +1,22 @@
+
+![image](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/6b931f4f-9d4b-4784-884d-d1bad6a4e23e)
+
+Em um projeto na indústria automobilística, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
+
+![CodingHowToSellDrugsOnlineFastGIF (2)](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/186faf54-ac4d-409c-bc1f-8df2a52cd48c)
+
+Com a abordagem No Code, fui capaz de criar e personalizar templates para utilização no ERP Oracle R12, sistema utilizado em nossa empresa para o planejamento de recursos corporativos, sem depender de conhecimentos técnicos avançados em programação. Isso me permitiu, na função de Líder de Projetos, contribuir ativamente para o desenvolvimento de soluções sem depender exclusivamente de programadores. Como resultado, alcançamos maior eficiência e agilidade, reduzindo significativamente o tempo de desenvolvimento e implementação de novas funcionalidades para o cadastro de dados em massa.
+
+Além disso, a abordagem No Code promoveu uma maior colaboração e comunicação entre as equipes de negócio e desenvolvimento. Isso possibilitou que os desenvolvedores pudessem se concentrar em tarefas mais complexas e estratégicas. Essa maior interação entre as equipes resultou em uma compreensão mais abrangente dos objetivos do projeto e contribuiu para uma entrega mais alinhada com as necessidades do negócio.
+
+Outro benefício importante do No Code é a capacidade de iterar rapidamente e realizar ajustes em tempo real. Com a flexibilidade proporcionada por essa abordagem, pude responder de forma ágil às mudanças de requisitos e às necessidades emergentes do negócio, garantindo uma entrega contínua de valor aos nossos clientes e stakeholders.
+
+![AmongUsUploadGIF](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/ab21aff5-85cf-470c-9ef3-f63122bbae3f)
+
+
+
+Em suma, o No Code tem se mostrado uma ferramenta poderosa e disruptiva no desenvolvimento de soluções empresariais, permitindo que as empresas alcancem resultados excepcionais de forma mais rápida, eficiente e colaborativa. Estou entusiasmado em continuar explorando e aplicando essa abordagem inovadora em nossos futuros projetos.
+
 # Dataload Classic
 Cadastro de Dados em sistema ERP e CRM.
 <br ><br>
