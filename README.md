@@ -11,8 +11,6 @@ Além disso, a abordagem No Code promoveu uma maior colaboração e comunicaçã
 
 Outro benefício importante do No Code é a capacidade de iterar rapidamente e realizar ajustes em tempo real. Com a flexibilidade proporcionada por essa abordagem, pude responder de forma ágil às mudanças de requisitos e às necessidades emergentes do negócio, garantindo uma entrega contínua de valor aos nossos clientes e stakeholders.
 
-![AmongUsUploadGIF](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/ab21aff5-85cf-470c-9ef3-f63122bbae3f)
-
 
 
 Em suma, o No Code tem se mostrado uma ferramenta poderosa e disruptiva no desenvolvimento de soluções empresariais, permitindo que as empresas alcancem resultados excepcionais de forma mais rápida, eficiente e colaborativa. Estou entusiasmado em continuar explorando e aplicando essa abordagem inovadora em nossos futuros projetos.
