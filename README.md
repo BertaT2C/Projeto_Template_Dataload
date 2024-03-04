@@ -1,9 +1,13 @@
+# Implementação do No Code na Indústria Automobilística
+<br><br>
 
 ![image](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/6b931f4f-9d4b-4784-884d-d1bad6a4e23e)
 
+<br>
+
 Em um projeto na indústria automobilística, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
-
-
+<br><br>
+# Desenvolvimento Ágil com No Code no ERP Oracle R12
 
 Com a abordagem No Code, fui capaz de criar e personalizar templates para utilização no ERP Oracle R12, sistema utilizado em nossa empresa para o planejamento de recursos corporativos, sem depender de conhecimentos técnicos avançados em programação. Isso me permitiu, na função de Líder de Projetos, contribuir ativamente para o desenvolvimento de soluções sem depender exclusivamente de programadores. Como resultado, alcançamos maior eficiência e agilidade, reduzindo significativamente o tempo de desenvolvimento e implementação de novas funcionalidades para o cadastro de dados em massa.
 
@@ -11,20 +15,28 @@ Além disso, a abordagem No Code promoveu uma maior colaboração e comunicaçã
 
 Outro benefício importante do No Code é a capacidade de iterar rapidamente e realizar ajustes em tempo real. Com a flexibilidade proporcionada por essa abordagem, pude responder de forma ágil às mudanças de requisitos e às necessidades emergentes do negócio, garantindo uma entrega contínua de valor aos nossos clientes e stakeholders.
 
+<br><br>
 
+# No Code: Impulsionando Resultados Empresariais
 
 Em suma, o No Code tem se mostrado uma ferramenta poderosa e disruptiva no desenvolvimento de soluções empresariais, permitindo que as empresas alcancem resultados excepcionais de forma mais rápida, eficiente e colaborativa. Estou entusiasmado em continuar explorando e aplicando essa abordagem inovadora em nossos futuros projetos.
 
-# Dataload Classic
+<br><br>
+
+# Ferramenta utiliada: Dataloa Classic
+
 Cadastro de Dados em sistema ERP e CRM.
 <br ><br>
 
 ![LoadLoadingGIF](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1668e2eb-8ba7-45f2-9fab-7f3c07e4e25e)
 <br>
-O DataLoad é uma ferramenta essencial para o carregamento de dados. Utilizando essa plataforma, liderei um processo de aprimoramento em uma multinacional do setor automobilístico, que abrangeu uma variedade de atividades, desde a emissão de notas até a inclusão de novos itens, tanto produtivos quanto não produtivos, e a geração de requisições de compras,em sistema ERP, tudo isso utilizando a abordagem No Code. O resultado foi um aumento impressionante de aproximadamente 60% na eficiência do processo para os usuários, reduzindo a quantidade de tarefas repetitivas e liberando tempo para atividades mais estratégicas. Além disso, implementei com sucesso a emissão de notas de importação utilizando este recurso.
-<br> 
+O DataLoad é uma ferramenta essencial para o carregamento de dados. Utilizando essa plataforma, liderei um processo de aprimoramento em uma multinacional do setor automobilístico, que abrangeu uma variedade de atividades, desde a emissão de notas até a inclusão de novos itens, tanto produtivos quanto não produtivos, e a geração de requisições de compras,em sistema ERP, tudo isso utilizando a abordagem No Code. <br><br>
+O resultado foi um aumento impressionante de aproximadamente 60% na eficiência do processo para os usuários, reduzindo a quantidade de tarefas repetitivas e liberando tempo para atividades mais estratégicas. Além disso, implementei com sucesso a emissão de notas de importação utilizando este recurso.
+<br><br>
 Houve a solicitação de uma máquina exclusiva para rodar o software:
 Hardware, Acesso do Servidor, Software ERP Oracle R12, Senha do Dataload, para rastreabilidade do processo após conclusão
+
+<br><br>
 
 # Download da aplicação
 <br>
@@ -36,15 +48,11 @@ http://www.dataload.com/downloads/
 Nesta demonstração efetuei um template para cadastro de dados de usuário em uma página da Web
 <br>
 
-
-
-
-
 https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/467a87a4-21ff-4ccd-98e8-61c060e9aef5
 
 # Neste repositório dispobilizei alguns templates que podem ser executados no Oracle EBS R12
 
-1) Dataload Importação<b>
+1) Dataload Importação
 <br><br> 
 Em conformidade com as regulamentações fiscais, toda nota fiscal de importação, ao ingressar no mercado nacional, requer a geração da nota de nacionalização. Essa etapa é essencial para registrar adequadamente a entrada dos produtos no estoque físico da empresa e garantir a conformidade com as normas fiscais. Dentro do módulo de *AR Billing*, os comandos para emissão desse tipo de nota eram os mesmos. Portanto, realizei um mapeamento abrangente de todos os campos e incluí os comandos necessários para a emissão de qualquer nota de nacionalização. Dessa forma, as alterações necessárias se limitam aos itens da fatura, proporcionando uma execução eficiente e precisa do processo de nacionalização de notas fiscais de importação.
 ##
