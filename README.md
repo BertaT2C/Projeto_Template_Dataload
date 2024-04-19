@@ -5,9 +5,20 @@
 
 <br>
 
+## **🚨 Aviso Importante:** 
+
+As demonstrações realizadas neste projeto foram feitas utilizando a ferramenta Dataload Classic para integração com o ERP Oracle R12. Todas as demonstrações foram realizadas em ambiente web para mostrar o funcionamento da ferramenta e as informações descritas.
+
+Por favor, esteja ciente de que todos os dados apresentados neste projeto são fictícios e foram criados para simular um caso vivenciado na minha trajetória profissional. Nenhuma empresa, organização ou entidade real está representada nos dados ou nas demonstrações apresentadas.
+
+Este projeto foi desenvolvido com o propósito de demonstrar habilidades adquiridas em No Code e o funcionamento da integração com o ERP Oracle R12, utilizando dados fictícios para simular um cenário de uso.
+##
+
+<br>
 Em um projeto na indústria que possuia sistema ERP, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
 <br><br>
-# Desenvolvimento com No Code no ERP Oracle R12
+
+ # Desenvolvimento com No Code no ERP Oracle R12
 
 Com a abordagem No Code, fui capaz de criar e personalizar templates para utilização no ERP Oracle R12, sistema utilizado em nossa empresa para o planejamento de recursos corporativos, sem depender de conhecimentos técnicos avançados em programação. Isso me permitiu, na função de Líder de Projetos, contribuir ativamente para o desenvolvimento de soluções sem depender exclusivamente de programadores. Como resultado, alcançamos maior eficiência e agilidade, reduzindo significativamente o tempo de desenvolvimento e implementação de novas funcionalidades para o cadastro de dados em massa.
 
@@ -23,7 +34,7 @@ Em suma, o No Code tem se mostrado uma ferramenta poderosa e disruptiva no desen
 
 <br><br>
 
-# Ferramenta utiliada: Dataloa Classic
+# Ferramenta utilizada: Dataloa Classic
 
 Cadastro de Dados em sistema ERP e CRM.
 <br ><br>
