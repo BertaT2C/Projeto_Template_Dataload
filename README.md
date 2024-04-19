@@ -1,11 +1,11 @@
-# Implementação do No Code na Indústria Automobilística
+# Implementação do No Code
 <br><br>
 
-![image](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/6b931f4f-9d4b-4784-884d-d1bad6a4e23e)
+![_4bb17846-13ec-416c-a2b0-4660cf646d2f](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1b820a7c-6706-4eae-a715-0715ce83f0a5)
 
 <br>
 
-Em um projeto na indústria automobilística, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
+Em um projeto na indústria que possuia sistema ERP, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
 <br><br>
 # Desenvolvimento com No Code no ERP Oracle R12
 
