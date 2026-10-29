@@ -1,72 +1,98 @@
-# Implementação do No Code
-<br><br>
+# Automação no-code com DataLoad Classic | Oracle ERP R12
 
-![_4bb17846-13ec-416c-a2b0-4660cf646d2f](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1b820a7c-6706-4eae-a715-0715ce83f0a5)
+**Análise de Negócios · Automação de interface · ERP Oracle R12 · Padronização de processos · No-code**
 
-<br>
+![Imagem original de abertura do estudo DataLoad](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1b820a7c-6706-4eae-a715-0715ce83f0a5)
 
-## **🚨 Aviso Importante:** 
+> **Sobre o material:** as demonstrações públicas utilizam **dados fictícios** e representam exercícios inspirados em experiências profissionais. Os arquivos e a apresentação não comprovam execução em produção com os dados exibidos.
 
-As demonstrações realizadas neste projeto foram feitas utilizando a ferramenta Dataload Classic para integração com o ERP Oracle R12. Todas as demonstrações foram realizadas em ambiente web para mostrar o funcionamento da ferramenta e as informações descritas.
+## 1. Contexto e objetivo de negócio
 
-Por favor, esteja ciente de que todos os dados apresentados neste projeto são fictícios e foram criados para simular um caso vivenciado na minha trajetória profissional. Nenhuma empresa, organização ou entidade real está representada nos dados ou nas demonstrações apresentadas.
+O estudo aborda oportunidades de **automatização de atividades repetitivas em sistemas ERP**, com foco no **Oracle E-Business Suite R12** e na utilização da ferramenta **DataLoad Classic**.
 
-Este projeto foi desenvolvido com o propósito de demonstrar habilidades adquiridas em No Code e o funcionamento da integração com o ERP Oracle R12, utilizando dados fictícios para simular um cenário de uso.
-##
+Em operações industriais, atividades como a emissão de documentos, o cadastro de itens e a geração de requisições podem exigir a repetição de comandos e o preenchimento de diversos campos. A proposta é **padronizar a entrada dessas informações** e reduzir esforço manual por meio de templates.
 
-<br>
-Em um projeto na indústria que possuia sistema ERP, conduzi implementações utilizando a abordagem No Code para aprimorar nossas interações em ERP. O No Code representa uma inovação tecnológica e social que me permitiu desenvolver soluções web e mobile sem a necessidade de programação extensiva. Recentemente, empreguei essa metodologia em um projeto na plataforma Salesforce e gostaria de compartilhar como essa abordagem revolucionária eliminou a barreira de conhecimento entre desenvolvedores e usuários de negócio.
-<br><br>
+**Desafio:** manter a consistência da operação em processos administrativos e fiscais, inclusive em ambientes de produção **just-in-time**.
 
- # Desenvolvimento com No Code no ERP Oracle R12
+**Papel demonstrado:** identificação de rotinas repetitivas, mapeamento de campos e comandos, preparação de templates e melhoria da execução operacional.
 
-Com a abordagem No Code, fui capaz de criar e personalizar templates para utilização no ERP Oracle R12, sistema utilizado em nossa empresa para o planejamento de recursos corporativos, sem depender de conhecimentos técnicos avançados em programação. Isso me permitiu, na função de Líder de Projetos, contribuir ativamente para o desenvolvimento de soluções sem depender exclusivamente de programadores. Como resultado, alcançamos maior eficiência e agilidade, reduzindo significativamente o tempo de desenvolvimento e implementação de novas funcionalidades para o cadastro de dados em massa.
+## 2. Como funciona a abordagem
 
-Além disso, a abordagem No Code promoveu uma maior colaboração e comunicação entre as equipes de negócio e desenvolvimento. Isso possibilitou que os desenvolvedores pudessem se concentrar em tarefas mais complexas e estratégicas. Essa maior interação entre as equipes resultou em uma compreensão mais abrangente dos objetivos do projeto e contribuiu para uma entrega mais alinhada com as necessidades do negócio.
+O **DataLoad Classic** permite automatizar sequências de ações sobre interfaces de aplicações, como preenchimento de campos e comandos de navegação, a partir de templates. É uma solução de **automação de interface**, não uma evidência de integração via API ou de desenvolvimento de um novo módulo do ERP.
 
-Outro benefício importante do No Code é a capacidade de iterar rapidamente e realizar ajustes em tempo real. Com a flexibilidade proporcionada por essa abordagem, pude responder de forma ágil às mudanças de requisitos e às necessidades emergentes do negócio, garantindo uma entrega contínua de valor aos nossos clientes e stakeholders.
+| Elemento | Aplicação no estudo |
+| --- | --- |
+| **Entrada** | Dados e parâmetros necessários ao processo |
+| **Mapeamento funcional** | Sequência de campos, comandos e regras operacionais |
+| **Execução** | Utilização de template DataLoad na interface do sistema |
+| **Conferência** | Verificação do resultado e tratamento de eventuais inconsistências |
+| **Controles operacionais** | Ambiente adequado, acesso ao ERP e rastreabilidade da execução |
 
-<br><br>
+### Recursos apresentados
 
-# No Code: Impulsionando Resultados Empresariais
+![Animação original associada à ferramenta DataLoad](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1668e2eb-8ba7-45f2-9fab-7f3c07e4e25e)
 
-Em suma, o No Code tem se mostrado uma ferramenta poderosa e disruptiva no desenvolvimento de soluções empresariais, permitindo que as empresas alcancem resultados excepcionais de forma mais rápida, eficiente e colaborativa. Estou entusiasmado em continuar explorando e aplicando essa abordagem inovadora em nossos futuros projetos.
+O caso relata o uso de uma **máquina dedicada**, com acesso ao servidor, ao ERP Oracle R12 e à ferramenta de automação. Esse contexto mostra a importância de considerar ambiente de execução, permissões e rastreabilidade ao automatizar um processo.
 
-<br><br>
+## 3. Processos abordados
 
-# Ferramenta utilizada: Dataloa Classic
+### Emissão de nota fiscal de nacionalização de importação
 
-Cadastro de Dados em sistema ERP e CRM.
-<br ><br>
+O estudo descreve o mapeamento dos campos e comandos necessários à emissão de documentos de nacionalização no contexto do **AR Billing** do Oracle R12.
 
-![LoadLoadingGIF](https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/1668e2eb-8ba7-45f2-9fab-7f3c07e4e25e)
-<br>
-O DataLoad é uma ferramenta essencial para o carregamento de dados. Utilizando essa plataforma, liderei um processo de aprimoramento em uma multinacional do setor automobilístico, que abrangeu uma variedade de atividades, desde a emissão de notas até a inclusão de novos itens, tanto produtivos quanto não produtivos, e a geração de requisições de compras,em sistema ERP, tudo isso utilizando a abordagem No Code. <br><br>
-O resultado foi um aumento impressionante de aproximadamente 60% na eficiência do processo para os usuários, reduzindo a quantidade de tarefas repetitivas e liberando tempo para atividades mais estratégicas. Além disso, implementei com sucesso a emissão de notas de importação utilizando este recurso.
-<br><br>
-Houve a solicitação de uma máquina exclusiva para rodar o software:
-Hardware, Acesso do Servidor, Software ERP Oracle R12, Senha do Dataload, para rastreabilidade do processo após conclusão
+A proposta do template é reaproveitar a sequência operacional e ajustar os **itens da fatura**, reduzindo o preenchimento repetitivo. A aplicação real exige conferência dos dados, aderência às regras fiscais aplicáveis e validação pelos responsáveis.
 
-<br><br>
+### Criação de requisição de compras
 
-# Download da aplicação
-<br>
-O DataLoad Classic é gratuito para download e uso. Clique no link abaixo para baixar a versão mais recente. Novos recursos em versões recentes podem ser visualizados aqui.
-http://www.dataload.com/downloads/
+Para apoiar uma operação industrial **just-in-time**, o material apresenta um template voltado a agilizar a criação de requisições de compras no módulo de **Purchasing**, reduzindo etapas repetitivas na alimentação de informações.
 
-# Demonstração de execução dos dados
+**Objetivo de negócio:** favorecer agilidade e padronização sem perder o controle sobre dados e aprovações necessários.
 
-Nesta demonstração efetuei um template para cadastro de dados de usuário em uma página da Web
-<br>
+### Cadastro de informações em lote
+
+O repositório também contém um exemplo de planilha e uma demonstração do preenchimento automatizado de dados. A presença desses artefatos não significa que qualquer arquivo esteja pronto para utilização em produção sem configuração e testes.
+
+## 4. Resultado e benefícios descritos na experiência
+
+O texto original cita **aproximadamente 60% de melhoria na eficiência do processo para os usuários** associada à utilização do DataLoad.
+
+Esse número é **um resultado relatado no estudo**, sem série histórica, metodologia de apuração ou planilha de medição publicada neste repositório. Por isso, a documentação não o converte em economia financeira ou ganho universal de produtividade.
+
+Outros benefícios descritos incluem:
+
+- Menor repetição de comandos e tarefas operacionais;
+- Mais padronização no preenchimento de dados;
+- Potencial agilidade em processos de requisição e emissão;
+- Maior colaboração entre negócio e tecnologia na organização das rotinas.
+
+## 5. Arquivos e evidências
+
+| Arquivo | Utilidade no repositório |
+| --- | --- |
+| [`Criar_Requisicao_Compras_Estrag_T.dld`](./Criar_Requisicao_Compras_Estrag_T.dld) | Arquivo de template DataLoad relacionado a requisição de compras |
+| [`DATALOAD IMPORTAÇÃO.dld`](./DATALOAD%20IMPORTA%C3%87%C3%83O.dld) | Arquivo identificado como exemplo de importação; verificar conteúdo e completude antes do uso |
+| [`Dataload cadastro.xlsx`](./Dataload%20cadastro.xlsx) | Planilha de apoio incluída no estudo |
+| [`Dataload.mp4`](./Dataload.mp4) | Vídeo armazenado no repositório |
+| [Documentação anterior](./DOCUMENTACAO_ORIGINAL.md) | Conteúdo original preservado |
+
+### Vídeo original da demonstração
+
+O estudo apresenta uma demonstração de template para preenchimento de dados em página web:
 
 https://github.com/BertaT2C/Projeto_Template_Dataload/assets/99225701/467a87a4-21ff-4ccd-98e8-61c060e9aef5
 
-# Neste repositório dispobilizei alguns templates que podem ser executados no Oracle EBS R12
+### Página de referência da ferramenta
 
-1) Dataload de itens de nota fiscal de importação
-<br><br> 
-Em conformidade com as regulamentações fiscais, toda nota fiscal de importação, ao ingressar no mercado nacional, requer a geração da nota de nacionalização. Essa etapa é essencial para registrar adequadamente a entrada dos produtos no estoque físico da empresa e garantir a conformidade com as normas fiscais. Dentro do módulo de *AR Billing*, os comandos para emissão desse tipo de nota eram os mesmos. Portanto, realizei um mapeamento abrangente de todos os campos e incluí os comandos necessários para a emissão de qualquer nota de nacionalização. Dessa forma, as alterações necessárias se limitam aos itens da fatura, proporcionando uma execução eficiente e precisa do processo de nacionalização de notas fiscais de importação.
-##
-2) Dataload criação de requisição de compras
-<br><br> 
-Devido à natureza do sistema just-in-time, onde a indústria opera sem estoque de peças, a necessidade contínua de materiais exigia uma abordagem ágil e eficiente para o processo de compras. Diante desse cenário, foi desenvolvido um template específico para o Módulo Purchase. Esse template foi projetado para agilizar e facilitar o fluxo de compras, garantindo uma resposta rápida às demandas de produção e minimizando a interrupção das operações. Ele incorpora práticas e procedimentos otimizados, alinhados com os princípios do sistema just-in-time, para garantir a disponibilidade oportuna dos materiais necessários para a linha de produção. Essa iniciativa não apenas melhorou a eficiência do processo de compras, mas também contribuiu significativamente para a operação suave e contínua da indústria, mesmo sem estoque de peças.
+[Site de downloads do DataLoad](http://www.dataload.com/downloads/)
+
+*Antes de instalar ou executar qualquer ferramenta, verifique a origem, a compatibilidade e as políticas de segurança aplicáveis.*
+
+## 6. Competências de Análise de Negócios demonstradas
+
+- **Mapeamento AS IS / TO BE:** identificação de atividades repetitivas e proposta de fluxo automatizado;
+- **Requisitos e regras:** levantamento de campos, restrições e condições para execução;
+- **Análise de riscos:** dependência de tela, mudanças na interface, acessos e consistência dos dados;
+- **Validação:** necessidade de testar o processamento, conferir o resultado e registrar evidências;
+- **Melhoria contínua:** avaliação de oportunidades para reduzir retrabalho.
+
+**Limites do material:** este case não fornece evidências de uma API, implantação pública do ERP ou resultados medidos além dos relatos registrados. Os arquivos de origem, as imagens e o vídeo não foram alterados.
